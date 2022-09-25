@@ -3,11 +3,12 @@ This project uses MySQL to create a database with fake entries that is connected
 
 Here are the steps I took:
 
-[Creating an empty database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Schema.sql)
+1. [Creating an empty database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Schema.sql)
 
-[Adding fake users into the database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Fake%20Data%20Input.js)
+2. [Adding fake users into the database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Fake%20Data%20Input.js)
 
-[Code to setup link with webpage and database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Node%20Code.js)
+3. [Code to setup link with webpage and database](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Node%20Code.js)
 
-[Creating a simple layout](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Layout.ejs) and [formating the layout of the webpage](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Format.css)
+4. [Creating a simple layout](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Layout.ejs) and [formating the layout of the webpage](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Format.css)
 
+This projects primarily focsing on the use of MySQL and Node with little experience in Java. 
