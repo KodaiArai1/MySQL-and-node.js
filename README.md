@@ -11,4 +11,6 @@ Here are the steps I took:
 
 4. [Creating a simple layout](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Layout.ejs) and [formating the layout of the webpage](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Home%20Page%20Format.css)
 
+Here is a [preview](https://github.com/KodaiKonnerArai/MySQL-and-node.js/blob/main/Webpage%20Preview%201.png) of the webpage. 
+
 This projects primarily focsing on the use of MySQL and Node with little experience in Java. 
